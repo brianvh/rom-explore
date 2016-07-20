@@ -1,0 +1,4 @@
+development:
+  postgresql://localhost/rom-explore_development
+test:
+  postgresql://localhost/rom-explore_test
